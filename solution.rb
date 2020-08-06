@@ -1,4 +1,3 @@
-
 class Deck
 
   def initialize
