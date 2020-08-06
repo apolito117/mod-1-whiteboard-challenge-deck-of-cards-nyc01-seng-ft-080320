@@ -1,3 +1,5 @@
+require_relative "../solution.rb"
+
 class Deck
 
   def initialize
